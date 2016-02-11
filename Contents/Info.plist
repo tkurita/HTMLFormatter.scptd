@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>com.apple.ScriptEditor.id.5680F220-7102-456F-9056-3ECE966652A7</string>
+	<string>Scriptfactory.HTMLFormatter</string>
 	<key>WindowState</key>
 	<dict>
 		<key>dividerCollapsed</key>
