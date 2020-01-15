@@ -6,18 +6,22 @@
 	<string>Scriptfactory.HTMLFormatter</string>
 	<key>WindowState</key>
 	<dict>
+		<key>bundleDividerCollapsed</key>
+		<true/>
+		<key>bundlePositionOfDivider</key>
+		<real>0.0</real>
 		<key>dividerCollapsed</key>
 		<true/>
 		<key>eventLogLevel</key>
-		<integer>-1</integer>
+		<integer>2</integer>
 		<key>name</key>
 		<string>ScriptWindowState</string>
 		<key>positionOfDivider</key>
 		<real>333</real>
 		<key>savedFrame</key>
-		<string>20 264 602 597 0 0 1440 878 </string>
-		<key>selectedTabView</key>
-		<string>event log</string>
+		<string>20 263 602 597 0 0 1440 877 </string>
+		<key>selectedTab</key>
+		<string>log</string>
 	</dict>
 </dict>
 </plist>
